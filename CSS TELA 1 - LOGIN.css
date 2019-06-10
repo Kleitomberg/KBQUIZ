@@ -1,0 +1,945 @@
+/* listas*/
+﻿ul{
+	list-style-type:none;
+	display:block;
+
+	}
+	.listinha{
+		list-style-type:none;
+	}
+	
+	/* cabeçalho*/
+#cabe{
+background: linear-gradient(to right, #FFFAFA,#00BFFF);
+width:100%;
+text-decoration: none;
+list-style-type:none;
+
+}
+/*links*/
+a{
+text-decoration:none;
+
+}
+.logo img{
+width:215px;
+position:relative;
+top:-1px;
+}
+
+
+.caixinha{
+padding:0px 0px 10px 0px;
+
+
+}
+
+#final{
+
+}
+
+
+/* RAdapé*/
+.roda{
+
+margin-left:-30px;
+text-align:center;
+background: linear-gradient(to right, #FFFAFA,#00BFFF);
+width:100%;
+padding:4% 3%;}
+
+.esqueceu{
+	position:absolute;
+	color:black;	
+	left:590px;
+	left:571px;
+	top:338px;
+	
+
+	
+}
+
+.navegacao 
+{
+
+color:white;
+text-decoration: none;
+padding: 14px 16px;
+margin:;
+	
+
+}
+
+td{
+text-align:right;
+color: red;
+
+}
+#home{
+font-family: lato;
+font-size:150%;
+position: absolute;
+right: 400px;
+top:45px;
+color:white;
+
+text-decoration: none;
+}
+#ca{
+font-family: lato;
+font-size:150%;
+position: absolute;
+right: 100px;
+top:45px;
+color:white;
+text-decoration: none;
+
+}
+#lo{
+font-family: lato;
+font-size:150%;
+position: absolute;
+right: 280px;
+top:45px;
+color:white;
+text-decoration: none;
+}
+
+.corpo{
+
+padding-top:3%;
+padding-bottom:3%;
+
+}
+.recupere{
+	font-size:200px;
+}
+.remember{
+	padding-bottom:100px;
+}
+.Insira{
+	
+}
+#passwd{
+	position:relative;
+	top:-30px;
+	left:70px;
+	text-align:center;
+	width:250px;
+	
+}
+.re{
+	color:black;
+}
+.fildset{
+	
+	padding-bottom:2%;	
+	border-radius:10px;
+	border-bottom-color:#00BFFF;
+	border-top-color:#00BFFF;
+	border-right-color:#00BFFF;
+	border-left-color:#00BFFF;
+}
+
+.fildsetsex{
+	
+	padding-bottom:2%;	
+	border-radius:10px;
+	border-bottom-color:#00BFFF;
+	border-top-color:#00BFFF;
+	border-right-color:#00BFFF;
+	border-left-color:#00BFFF;
+	height:50px;
+	width:100px;
+}
+.fieldcadas{
+padding-bottom:2%;	
+	border-radius:10px;
+	border-bottom-color:#00BFFF;
+	border-top-color:#00BFFF;
+	border-right-color:#00BFFF;
+	border-left-color:#00BFFF;
+	height:225px;
+	width:1210px;	
+	
+}
+.ja{
+	position:absolute;
+	top:390px;
+	left:600px;
+width:100px;
+height:100px;
+font-family:lato;	
+	
+}
+.en{
+	color:blue;
+	position:absolute;
+	top:20px;
+	left:50px;
+width:100px;
+height:100px;
+
+
+font-family:lato;
+}
+
+
+
+#newcont{
+	
+	
+}
+
+#lo:hover{
+	border-radius:5px; 
+background: rgba(255, 255, 255, 1.0);	
+}
+
+#ca:hover{
+border-radius:5px; 
+background: rgba(255, 255, 255, 1.0);
+}
+
+#home:hover{
+	border-radius:5px; 
+background: rgba(255, 255, 255, 1.0);
+}
+
+#nome{
+border-radius:10px;
+border-color:#00FFFF;
+
+}
+#senha{
+border-radius:10px;
+border-color:#00FFFF;
+
+}
+
+#entrar{
+border-radius:10px;
+border-color:#00FA9A;
+
+}
+
+
+#userc{
+border-radius:10px;
+border-color:#00FFFF;
+}
+#user{
+border-radius:10px;
+border-color:green;
+}
+
+#mail{
+border-radius:10px;
+border-color:#00FFFF;
+}
+
+#cadastrar{
+border-radius:10px;
+border-color:green;
+
+}
+#casastro{
+position:center;
+background-color:none;
+padding-bottom:0px;
+top:30px;
+	
+}
+.camposcads{
+position:center;
+background-color:none;
+padding-bottom:0px;
+top:30px;	
+	
+}
+
+
+p{
+
+}
+.copyright{
+
+}
+
+.borders{
+border-radius:10px;
+border-color:#00FFFF;	
+}
+
+.i{
+float: right;
+margin-top:3%;
+}
+
+#question {
+padding:0px 0px 10px 0px;
+text-align:center;
+}
+#alternativas{
+padding:0px 0px 10px 0px;
+}
+#resposta {
+font-size:130%;
+font-family: lato;
+padding:0px 0px 10px 0px;
+}
+
+
+.perguntas{
+font-size:150%;
+font-family: lato;
+
+}
+a:visited {
+    color: black;
+	
+}
+
+a:hover{
+
+
+}
+
+legend:hover{
+color:#00BFFF;
+
+}
+#tl{
+font-size:150%;
+}
+
+.img{
+	position:absolute;
+	width:30%;
+    top: 220px;
+    left: 80px;
+    padding-bottom: 50px;
+
+}
+#quizes{
+padding-bottom:250px;
+}
+#h2{
+position:absolute;
+top:130px;
+left:355px;
+
+}
+#h2:hover{
+color:#00FA9A;	
+}
+
+#h3{
+position:absolute;
+left:550px;
+top:130px;
+}
+#h3:hover{
+color:#00FF00;
+}
+
+
+#tabela {
+    border:1px;
+	position:absolute;
+	top:180px;
+	left:350px;
+	width:10px;
+}
+
+#RESULT{
+padding-bottom:260px;
+}
+}
+.social-icons a {
+font-size:1.5em;
+color: rgba(255,255,255,0.7);
+margin-right: 3%;
+
+
+}
+.social-icons a:hover{
+color: #9400D3;
+
+}
+.social-icons a:last-child{
+margin-right:0%;
+}
+
+.copyright{
+margin-top:2%;
+color: rgba(255,255,255,0.7);
+
+}
+
+.img1{
+position:absolute;
+width:30%;
+height:;
+top:220px;
+right:7%;
+padding-bottom:50px;
+
+
+
+}
+#p3{
+position:absolute;
+left:350px;
+top:398px;
+	}
+.per3{
+position:absolute;
+left:390px;
+top:345px;
+}
+
+.alt3{
+	position:absolute;
+	left:390px;
+	top:365px;
+}
+
+#p4{
+position:absolute;
+left:350px;
+top:580px;
+	}
+.per4{
+position:absolute;
+left:390px;
+top:515px;
+}
+
+.alt4{
+	position:absolute;
+	left:390px;
+	top:535px;
+}
+
+#p5{
+position:absolute;
+left:750px;
+top:398px;
+	}
+.per5{
+position:absolute;
+left:790px;
+top:345px;
+}
+
+.alt5{
+	position:absolute;
+	left:790px;
+	top:365px;
+}
+
+#p6{
+position:absolute;
+left:750px;
+top:580px;
+	}
+.per6{
+position:absolute;
+left:790px;
+top:515px;
+}
+
+.alt6{
+	position:absolute;
+	left:790px;
+	top:535px;
+}
+
+#p7{
+position:absolute;
+left:1250px;
+top:398px;
+	}
+.per7{
+position:absolute;
+left:1250px;
+top:345px;
+}
+
+.alt7{
+	position:absolute;
+	left:1250px;
+	top:365px;
+}
+
+#p8{
+position:absolute;
+left:1250px;
+top:580px;
+	}
+.per8{
+position:absolute;
+left:1250px;
+top:515px;
+}
+
+.alt8{
+	position:absolute;
+	left:1250px;
+	top:535px;
+}
+
+
+#btn-img{
+	position:absolute;
+	left:390px;
+	top:130px;	
+	margin:0px;
+	padding:opx;
+}
+#enviarimg{
+	color:;
+	font-size:;
+	font-family:lato;
+	margin:0px;
+	padding-bottom :2px;
+	padding-top :2px;
+}
+
+#btn-pergunta-quiznew{
+	
+
+}
+/* class botões geral*/
+.btn{
+	  background-color: white; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+/* class botões voltar*/
+.btn-volt{
+	  background-color: white; 
+  border: 2px solid #FF0000;
+  color: black; 
+	
+}
+/* class botões nova pergunta*/
+.btn-novaP{
+	position:absolute;
+	left:850px;
+	  background-color: white; 
+  color: black; 
+  border: 2px solid #00BFFF;
+	
+}
+/* class criar quizz*/
+.criarquiz{
+	position:absolute;
+	left:1900px;
+	  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+	
+}
+
+/* sair*/
+.sair{
+margin-top:15px;	
+	border: 2px solid #FF0000;
+	
+	
+}
+/* class novo quizz*/
+.NovoQuiz{
+	position:absolute;
+	margin-top:10px;
+	border: 2px solid #4CAF50;
+	position:absolute;
+	left:525px;
+	top:280px;
+}
+
+.NovoQuiz1{
+	position:absolute;
+	margin-top:10px;
+	border: 2px solid #4CAF50;
+	position:absolute;
+	left:1000px;
+	top:380px;
+	background-color:;
+}
+
+.NovoQuiz2{
+	position:absolute;
+	margin-top:10px;
+	border: 2px solid #4CAF50;
+	left:1000px;
+	top:431px;
+}
+
+	/*span.botoooon{
+	position:absolute;
+	left:700px;
+	top:50px;
+	
+}
+*/
+
+
+.NovoQuiz1{
+	margin-top: 10px;
+   border: 2px solid #4CAF50;
+}
+
+.NovoQuiz:hover{
+	background-color:#00FF00;
+color:white;
+border-radius:2px;
+	}
+
+
+#adentrar{
+	text-align:center;
+	width:100px;
+	height:20px;
+	position:absolute;
+	left:581px;
+	top:355px;
+	  background-color: none; 
+  color: black; 
+  border: 2px solid #4CAF50;
+  border-radius:20px;
+}
+#casds{
+	text-align:center;
+	width:150px;
+	height:20px;
+	position:absolute;
+	left:580px;
+	top:360px;
+	  background-color: none; 
+  color: black; 
+  border: 2px solid #4CAF50;
+  border-radius:20px;
+}
+
+
+
+
+
+#icones{
+	
+left:195px;
+	top:20px;
+	width:5px;
+	height:5px;
+}
+
+span.log{
+
+	
+}
+	span.nameentrar{
+	position:absolute;
+	color:black;	
+	left:35px;
+	top:7px;
+	width:2px;
+	height:2px;	
+	}
+	span.namecadas{
+	position:absolute;
+	color:black;	
+	left:45px;
+	top:7px;
+	width:2px;
+	height:2p	x;	
+	}
+	span.iconeentrar{
+	position:absolute;
+	color:black;	
+	left:15px;
+	top:07px;
+	width:2px;
+	height:2px;	
+		
+	}
+	span.iconecadas{
+	position:absolute;
+	color:black;	
+	left:20px;
+	top:07px;
+	width:2px;
+	height:2px;	
+		
+	}
+	
+	
+	span.iconeentrar:hover{color:white;}
+	span.nameentrar:hover{color:white;}
+
+#adentrar:hover{
+	color:#00FF00;
+	background-color:#00FF00;
+
+}
+#casds:hover{
+	color:#00FF00;
+	background-color:#00FF00;
+
+}
+
+
+#divb{	
+
+margin-top:20px;
+	width:10px;
+	height:10px;
+	margin-top:20px;
+	padding:1px;
+}
+.Nquizz{
+	width:550px;
+	height:20px;
+	
+}
+.cadas{
+	position:absolute;
+	margin-top:2%;
+	border: 2px solid #4CAF50;
+	 border-radius:20px;
+	 size:40px;
+}
+.exit{
+	position:absolute;
+	margin-top:2%;
+	border: 2px solid #4CAF50;
+	 border-radius:20px;
+	 size:40px;
+	
+}
+
+
+span.newC{
+	color:blue;
+	position:absolute;
+	left:581px;
+	top:400px;
+
+}
+
+span.iconcadas{position:absolute;
+ left:900px;
+ top:350px;
+ }
+
+#customers{
+	position:absolute;
+	left:530px;
+	top:200px;
+	
+}
+customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #00bfff;
+  color: white;
+}
+
+.selecionado{
+		border-radius:5px; 
+background: rgba(255, 255, 255, 1.0);
+
+}
+
+
+.dropbtn {
+  background-color: #00BFFF;
+  color: none;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  position:absolute;
+ width:40px;
+ height:40px;
+ left:1140px;
+ top:-107px;
+}
+.bonequinhos{
+	width:40px;
+ height:40px;
+ left:920px;
+ top:-107px;
+	
+}
+.bonequinhos:hover{
+	color:#00BFFF;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+ background: linear-gradient(to right, #FFFAFA,#00BFFF);
+  min-width: 155px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  width:50px;
+ height:50px;
+ left:1010px;
+ top:-50px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: none}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #00BFFF;
+}
+
+.btsclass:hover{
+	color:;
+	background: rgba(255, 255, 255, 0.4);
+}
+
+
+
+ /*TABELA INDIVUDUAL*/
+
+#customers1{
+	position:absolute;
+	left:530px;
+	top:430px;
+	margin-bottom: 12px;
+	
+}
+customers1 {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  
+}
+
+#customers1 td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers1 tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers1 tr:hover {background-color: #ddd;}
+
+#customers1 th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #00bfff;
+  color: white;
+}
+
+.imgranking{
+	position:absolute;
+	left:690px;
+	top:130px;
+	width:80px;
+	height:70px;
+	
+}
+.imgranking1{
+	position:absolute;
+	left:800px;
+	top:130px;
+	width:350px;
+	height:351px;
+	
+}
+
+.imgranking2{
+	position:absolute;
+	left:80px;
+	top:199px;
+	width:350px;
+	height:200px;
+	font-family:;
+}
+
+
+
+span.cadasss{
+	position:relative;
+	top:-90px;
+}
+#recuperr{
+	text-align:center;
+	width:150px;
+	height:20px;
+	position:relative;
+	left:-135px;
+	top:35px;
+	  background-color: none; 
+  color: black; 
+  border: 2px solid #4CAF50;
+  border-radius:20px;
+
+}
+
+.re{
+	text-align:center;
+	width:150px;
+	height:20px;
+	position:relative;
+	left:-35px;
+	top:-25px;
+
+	
+}
+
+
+
+
+
+
+
+
+
+
